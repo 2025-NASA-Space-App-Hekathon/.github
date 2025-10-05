@@ -1,4 +1,4 @@
-# 2025 NASA Space App Hekathon
+# 2025 NASA Space App Hekaton
 
 ## Team GeeseCrossing
 
